@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.rizki.materi_sqflite_kotlin"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.rizki.materi_sqflite_kotlin"
